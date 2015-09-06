@@ -1,0 +1,10 @@
+link_with 'Badulake Creator'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Badulake Creator' do
+
+pod 'AFNetworking', '~> 2.0'
+
+
+end
+

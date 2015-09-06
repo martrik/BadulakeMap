@@ -1,0 +1,30 @@
+{
+  "name": "badulakemap",
+  "version": "0.0.1",
+  "description": "A simple Badulake map.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.9.x",
+    "body-parser": "1.9.2",
+    "debug": "~0.7.4",
+    "pg": "4.x",
+    "connect-timeout": "x",
+    "jade": "~1.9.2"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
